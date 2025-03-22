@@ -1,0 +1,118 @@
+
+.all {
+    display: flex;
+    margin-top: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+h3 {
+    border: 2px solid sandybrown;
+    width: 95%;
+    padding: 5px;
+}
+
+
+.left {
+    height: 100%;
+    margin-left: 2%;
+    margin-right: 3%;
+    width: 20%;
+}
+
+main {
+    border: 1px solid sandybrown;
+    margin-right: 2%;
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.txt {
+    margin-left: 30px;
+}
+
+h4 {
+    border-bottom: 1px solid salmon;
+    width: 95%;
+}
+
+h5 {
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.sab {
+    font-weight: 800;
+    font-size: 15px;
+    border: 1px solid sandybrown;
+    width: 20%;
+    padding: 5px;
+}
+
+.sabs {
+    text-align: center;
+    font-weight: 800;
+    font-size: 15px;
+    width: 70%;
+    margin-bottom: 8px;
+    margin-top: auto;
+}
+
+.con {
+    margin-left: 30px;
+    margin-top: 10px;
+    border: 1px solid sandybrown;
+    padding: 10px 0 10px 0;
+    border-radius: 20px;
+    height: 100%;
+    margin-left: 2%;
+    margin-right: 3%;
+    width: 100%;
+    background-color: antiquewhite;
+}
+
+.cons {
+    margin: 0 0 5px 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ko {
+    margin-left: 20px;
+}
+
+.koko {
+    margin-left: 30px;
+}
+
+.btn {
+    border: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    appearance: none;
+    color: rgb(220, 92, 0);
+    font-size: 15px;
+}
+.btn:hover {
+    color: rgb(248, 152, 84);
+    transition: .3s;
+
+}
+
+
+
+.hidden {
+    display: none;
+}
